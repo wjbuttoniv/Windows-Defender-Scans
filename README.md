@@ -13,7 +13,7 @@ To initiate the scanning process, you must first access the "Virus and Threat Pr
 1. Open "Update and Security". <br />
    ![Windows Defender](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102847.png?raw=true)
 
-2. Navigate to the "Virus and Threat Protection" section. <br />
+2. Navigate to the "Windows Security" section. <br />
    ![Virus and Threat Protection](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102948.png?raw=true)
 
 ## Step 2: Updating Threat Definitions
