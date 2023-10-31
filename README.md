@@ -1,57 +1,57 @@
 # Windows Defender Anti-virus: Basic Scanning Procedures
 
-This document provides an overview of the fundamental scanning procedures within Windows Defender Antivirus. Please note that this document focuses on explanation rather than serving as a step-by-step guide.
+This document provides an overview of essential actions within Windows Defender Antivirus, explaining the key steps to better understand the scanning process.
 
 ## Introduction
 
-The primary objective of this document is to familiarize users with essential functions in Windows Defender Antivirus. These functions include running scans and interpreting threat reports.
+The main purpose of this document is to elucidate the core functionalities of Windows Defender Antivirus, emphasizing the significance of each action involved in scanning and interpreting threat reports.
 
 ## Step 1: Accessing Virus and Threat Protection
 
-To initiate the scanning process, you must first access the "Virus and Threat Protection" feature. This can be done through the following steps:
+To initiate the scanning process, the first action is to access the "Virus and Threat Protection" feature:
 
-1. Open "Update and Security". <br />
+- Opening Windows Defender provides access to essential security controls.
    ![Windows Defender](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102847.png?raw=true)
 
-2. Navigate to the "Windows Security" section. <br />
+- Within the "Virus and Threat Protection" section, you'll find vital security options.
    ![Virus and Threat Protection](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102948.png?raw=true)
 
 ## Step 2: Updating Threat Definitions
 
-To ensure that your antivirus protection is up to date, regularly update your threat definitions. This is accomplished by executing the following action:
+Ensuring the latest threat definitions is essential for effective security. This action involves:
 
-1. Run "Check for updates" under "Virus & Threat Protection Updates."
+- Periodically checking for updates under "Virus & Threat Protection Updates" to maintain a robust defense.
    ![Check for updates](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103212.png?raw=true)
 
-2. Confirm the update process.
+- Confirming the update process guarantees that your system remains protected.
    ![Update Confirmation](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103239.png?raw=true)
 
 ## Step 3: Performing an Antivirus Quick Scan
 
-A quick scan is a rapid assessment of your system's security. Here's how to initiate a quick scan:
+A quick scan is a rapid assessment of your system's security. To understand its findings, follow these actions:
 
-1. Click the "Quick Scan" button on the "Virus and Threat Protection" screen.
+- Initiating a "Quick Scan" via the "Virus and Threat Protection" screen.
 
-2. Access the scan results by clicking "Threat History."
+- Accessing the scan results by clicking "Threat History" to comprehend the threats identified.
    ![Quick Scan Results](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103458.png?raw=true)
 
-Within the "Threat History" page, you can view details about quarantined or allowed threats.
+- Within the "Threat History" page, you can gain insights into quarantined or allowed threats.
    ![Threat History](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103837.png?raw=true)
 
 ## Step 4: Running a Custom Scan (e.g., Downloads Folder)
 
-If you wish to perform a custom scan that targets a specific directory, follow these steps:
+To conduct a specialized scan targeting a specific directory, perform the following actions:
 
-1. Click "Scan options" on the "Virus and Threat Protection" page.
+- Choosing "Scan options" on the "Virus and Threat Protection" page signifies your intent to customize the scan.
    ![Scan Options](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103948.png?raw=true)
 
-2. Choose the "Custom Scan" option.
+- Opting for the "Custom Scan" mode allows you to tailor the scan to your needs.
    ![Custom Scan](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103948.png?raw=true)
 
-3. A file explorer window will open, allowing you to select a directory. In this example, we'll select the "Downloads" folder from the directory tree on the left of File Explorer.
+- A file explorer window will open, enabling you to select a directory. In this example, we choose the "Downloads" folder from the directory tree on the left of File Explorer.
    ![Selecting the Downloads Folder](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031104135.png?raw=true)
 
-4. Depending on the number of files in the chosen directory, the scan will complete promptly.
+- The scan process will complete promptly, revealing the results based on your custom criteria.
    ![Custom Scan Progress](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031104209.png?raw=true)
 
-By following these steps, you can effectively perform custom scans tailored to your specific needs. Please feel free to explore the options and functionalities provided by Windows Defender Antivirus to enhance your system's security.
+By understanding these actions, you can effectively manage and optimize your system's security through Windows Defender Antivirus. Explore these features to enhance your protection comprehensively.
