@@ -10,7 +10,7 @@ The main purpose of this document is to elucidate the core functionalities of Wi
 
 To initiate the scanning process, the first action is to access the "Virus and Threat Protection" feature:
 
-- Opening Windows Defender provides access to essential security controls.
+- Opening Windows Defender provides access to essential security controls. <br />
    ![Windows Defender](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102847.png?raw=true)
 
 - Within the "Virus and Threat Protection" section, you'll find vital security options. <br />
