@@ -10,7 +10,7 @@ The primary objective of this document is to familiarize users with essential fu
 
 To initiate the scanning process, you must first access the "Virus and Threat Protection" feature. This can be done through the following steps:
 
-1. Open Windows Defender. <br />
+1. Open "Update and Security". <br />
    ![Windows Defender](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102847.png?raw=true)
 
 2. Navigate to the "Virus and Threat Protection" section. <br />
