@@ -20,7 +20,7 @@ To initiate the scanning process, the first action is to access the "Windows Sec
 
 Ensuring the latest threat definitions is essential for effective security. This action involves:
 
-- Periodically checking for updates under "Virus & Threat Protection Updates" to maintain a robust defense.
+- Periodically checking for updates under "Virus & Threat Protection Updates".
    ![Check for updates](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103212.png?raw=true)
 
 - Confirming the update process guarantees that your system remains protected.
@@ -45,7 +45,7 @@ To conduct a specialized scan targeting a specific directory, perform the follow
 - Choosing "Scan options" on the "Virus and Threat Protection" page signifies your intent to customize the scan.
    ![Scan Options](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103948.png?raw=true)
 
-- Opting for the "Custom Scan" mode allows you to tailor the scan to your needs.
+- "Custom Scan" mode allows you to tailor the scan to your needs.
    ![Custom Scan](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031103948.png?raw=true)
 
 - A file explorer window will open, enabling you to select a directory. In this example, we choose the "Downloads" folder from the directory tree on the left of File Explorer.
