@@ -1,7 +1,5 @@
 # Windows Defender Anti-virus: Basic Scanning Procedures
 
-This document provides an overview of essential actions within Windows Defender Antivirus, explaining the key steps to better understand the scanning process.
-
 ## Introduction
 
 The main purpose of this document is to explore the core functionalities of Windows Defender Antivirus, and to understand each action involved in scanning and interpreting threat reports.
