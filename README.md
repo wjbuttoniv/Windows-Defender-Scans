@@ -6,9 +6,9 @@ This document provides an overview of essential actions within Windows Defender 
 
 The main purpose of this document is to elucidate the core functionalities of Windows Defender Antivirus, emphasizing the significance of each action involved in scanning and interpreting threat reports.
 
-## Step 1: Accessing Virus and Threat Protection
+## Step 1: Accessing Windows Security
 
-To initiate the scanning process, the first action is to access the "Virus and Threat Protection" feature:
+To initiate the scanning process, the first action is to access the "Windows Security" feature:
 
 - Opening "updates and security" provides access to essential security controls. <br />
    ![Windows Defender](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Scans/Pasted%20image%2020231031102847.png?raw=true)
