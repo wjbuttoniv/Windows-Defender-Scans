@@ -4,7 +4,7 @@ This document provides an overview of essential actions within Windows Defender 
 
 ## Introduction
 
-The main purpose of this document is to elucidate the core functionalities of Windows Defender Antivirus, emphasizing the significance of each action involved in scanning and interpreting threat reports.
+The main purpose of this document is to explore the core functionalities of Windows Defender Antivirus, and to understand each action involved in scanning and interpreting threat reports.
 
 ## Step 1: Accessing Windows Security
 
